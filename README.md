@@ -5,6 +5,7 @@ Computational & Engineering Mathematics student at North Carolina Central Univer
 Interested in **embedded systems** and **machine learning**.
 
 **Languages:** Python, C++
+
 **ML & data:** PyTorch, scikit-learn, XGBoost, NumPy, pandas
 
 [LinkedIn](https://www.linkedin.com/in/braylon-brown-423a38231/)
